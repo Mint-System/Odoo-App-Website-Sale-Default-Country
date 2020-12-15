@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="address_form"
+        inherit_id="website_sale.address"
+        name="Set default country"
+        priority="20">
+        <xpath expr="//form/div[1]/div[11]" position="replace">
+            <select id="country_id" class="invisible" name="country_id">
+                <option value="43">Schweiz</option>
+            </select>
+        </xpath>
+    </template>
+</odoo>
