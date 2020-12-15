@@ -13,7 +13,7 @@
     'author': "Mint System GmbH",
     'website': "https://www.mint-sytem.ch",
     'category': 'Website',
-    'version': '14.0.1.0.0',
+    'version': '14.0.1.0.1',
 
     'depends': [
         'base',
