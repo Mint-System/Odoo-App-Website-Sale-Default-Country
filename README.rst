@@ -8,8 +8,10 @@ Website Sale Default Country
 
 Set switzerland as the default country in the website sale address from.
 
-.. raw:: html
-    <img src="./static/description/icon.png" height="100px">
+.. image:: ./static/description/icon.png
+  :height: 100
+  :width: 100
+  :alt: Icon
 
 Usage
 ~~~~~
