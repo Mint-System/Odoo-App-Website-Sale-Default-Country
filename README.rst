@@ -35,4 +35,4 @@ Maintainer
 
 This module is maintained by Mint System GmbH.
 
-For support and more information, please visit `Our Website <https://www.mint-system.ch>`__
+For support and more information, please visit `our Website <https://www.mint-system.ch>`__.
